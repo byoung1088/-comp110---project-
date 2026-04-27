@@ -14,19 +14,19 @@ I analyzed whether programming assignments improve student understanding of cour
 
 ### Programming Effectiveness vs Understanding
 
-<img src="/comp110---project/static/imgs/image.png" width="500">
+![Graph 1]({{ site.baseurl }}/graph1.png)
 
 This boxplot shows how understanding changes across programming effectiveness ratings. It is easier to interpret than a scatterplot because it summarizes the spread of understanding scores for each programming effectiveness rating.
 
 ### Difficulty vs Understanding
 
-<img src="/comp110---project/static/imgs/image-1.png" width="500">
+![Graph 2]({{ site.baseurl }}/graph2.png)
 
 This graph suggests that as difficulty increases, understanding may decrease slightly, however the results are retty scattered. This could indicate that students who find the course more difficult struggle more with understanding the material, but also that at that point people still understood the content well.
 
 ### Distribution of Programing Effectiveness
 
-<img src="/comp110---project/static/imgs/image-2.png" width="500">
+![Graph 3]({{ site.baseurl }}/graph3.png)
 
 This distribution shows how students generally perceive programming assignments. Most of the responses are on the higher end, indicating that students find them useful overall.
 
