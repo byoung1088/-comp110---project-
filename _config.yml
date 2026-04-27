@@ -22,9 +22,9 @@ title: Final Comp 110 Project!
 email: byoung10@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Comp110 has come to an end.
-baseurl: "/<comp110 - project>" # the subpath of your site, e.g. /blog
-url: "<byoung1088>.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+baseurl: "/<comp110---project>" # the subpath of your site, e.g. /blog
+url: "byoung1088.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: benyoung10
 github_username:  byoung1088
 
 # Build settings
